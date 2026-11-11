@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привіт, я Ілля! 👋
 
-<!--
-**illagubar612-lang/illagubar612-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент, який активно вивчає програмування та алгоритмізацію обчислювальних процесів.
 
-Here are some ideas to get you started:
+## 🚀 Мої навички та інструменти
+* **Мова програмування:** C++
+* **Середовища та інструменти:** Microsoft Visual Studio, Git, GitHub
+* **Оформлення документації:** Microsoft Word, Markdown
+* **Поточний фокус:** Алгоритми пошуку (мінімуми/максимуми), робота з масивами та циклами
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Як зі мною зв'язатися
+* Email: [illagubar612@gmail.com](mailto:illagubar612@gmail.com)
+* Telegram: [немає ніку](https://t.me/inactive)
